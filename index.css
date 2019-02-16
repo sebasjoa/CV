@@ -199,3 +199,13 @@ meter::-moz-meter-bar {
     color: #989898;
     line-height: 19px;
 }
+
+.contact-btn{
+    text-align: center;
+    font-size: 40px;
+    border-top: 2px solid;
+    padding: 0;
+}
+.contact-btn a{
+    padding: 5px;
+}
