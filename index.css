@@ -208,4 +208,15 @@ meter::-moz-meter-bar {
 }
 .contact-btn a{
     padding: 5px;
+    transition: transform .2s;
+}
+
+
+
+.contact-btn i:hover{
+    transform: scale(1.5);
+}
+
+.rightr{    
+    font-size: 12px;
 }
