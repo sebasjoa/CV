@@ -185,6 +185,7 @@ meter::-moz-meter-bar {
   font-size: 25px;  
   font-weight: 550;
   border-bottom: 1px solid;
+  width: 80%;
 }
 
 .container-card h5{
@@ -219,4 +220,12 @@ meter::-moz-meter-bar {
 
 .rightr{    
     font-size: 12px;
+}
+
+.w80{
+    width: 80%;
+}
+
+.row b{
+    font-size: 18px;
 }
