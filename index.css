@@ -250,6 +250,13 @@ font-weight: 550;
     color:black;       
     font-size: 80%;
     }
+.porta .hoverable{
+ padding: 5px;
+}
+
+.porta h4{
+    color:#5f97e4;
+}
     @media screen and (max-width: 600px) {
         .container-card{
             width: 80%;            
