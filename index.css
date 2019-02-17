@@ -170,7 +170,7 @@ meter::-moz-meter-bar {
 }
 
 .container-card{
-    width: 60%;
+    width: 40%;
     margin: auto;
     margin-bottom: 60px;
     color :#375378
@@ -185,7 +185,7 @@ meter::-moz-meter-bar {
   font-size: 25px;  
   font-weight: 550;
   border-bottom: 1px solid;
-  width: 80%;
+  width: 90%;
 }
 
 .container-card h5{
