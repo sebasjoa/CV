@@ -229,3 +229,23 @@ meter::-moz-meter-bar {
 .row b{
     font-size: 18px;
 }
+
+.progress{
+    height: 25px;
+    width: 90%    
+}
+
+.progress span{
+padding: 2px 3%;
+font-family: Arial, Helvetica, sans-serif;
+color:white;
+background: #1abc9c;
+font-weight: 550;
+}
+
+.progress p{
+    padding: 2px;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;       
+    }
