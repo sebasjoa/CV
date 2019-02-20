@@ -196,7 +196,7 @@ meter::-moz-meter-bar {
 }
 
 
-.container-card p{
+.container-card p,li{
     color: #989898;
     line-height: 19px;
 }
